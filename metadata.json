@@ -1,0 +1,6 @@
+{
+  "name": "Web to App",
+  "description": "Convert any website into a high-performance native Android application with offline support, desktop mode, file downloads, and native navigation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

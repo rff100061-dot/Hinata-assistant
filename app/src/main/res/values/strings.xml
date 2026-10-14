@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Web to App</string>
+    <string name="tagline">Convert Any Website into a Native Android App</string>
+    <string name="enter_website_url">Enter Website URL</string>
+    <string name="url_placeholder">https://example.com</string>
+    <string name="convert_to_app">Convert &amp; Open App</string>
+    <string name="set_as_default">Always open this website on launch</string>
+    <string name="change_website">Change Website</string>
+    <string name="desktop_mode">Desktop View</string>
+    <string name="mobile_mode">Mobile View</string>
+    <string name="share_url">Share Link</string>
+    <string name="reload_page">Reload</string>
+    <string name="go_home">Home</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_message">Please check your internet connection and tap retry.</string>
+    <string name="retry">Retry</string>
+    <string name="quick_presets">Popular Presets</string>
+    <string name="apk_generated_info">APK is compiled and ready in build outputs.</string>
+
+    <string name="hinata_name">हिनाता</string>
+    <string name="hinata_full_name">हिनाता ह्युगा</string>
+    <string name="voice_call">वॉइस कॉल</string>
+    <string name="always_by_your_side">हमेशा आपके साथ…</string>
+    <string name="call_status_connected">जुड़ा हुआ</string>
+    <string name="call_status_listening">सुन रही हूँ…</string>
+    <string name="call_status_thinking">सोच रही हूँ…</string>
+    <string name="call_status_speaking">बोल रही हूँ…</string>
+    <string name="call_status_ended">कॉल समाप्त</string>
+    <string name="call_status_reconnecting">पुनः जुड़ रहा है…</string>
+    <string name="call_mute">माइक बंद</string>
+    <string name="call_unmute">माइक चालू</string>
+    <string name="call_speaker">स्पीकर</string>
+    <string name="call_end">कॉल समाप्त करें</string>
+    <string name="call_again">फिर से कॉल करें</string>
+    <string name="permission_mic_title">माइक्रोफ़ोन अनुमति</string>
+    <string name="permission_mic_desc">हिनाता से बात करने के लिए माइक्रोफ़ोन की अनुमति दें।</string>
+    <string name="permission_grant">अनुमति दें</string>
+</resources>
